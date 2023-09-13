@@ -16,6 +16,8 @@
 		D3D6BD0D29B7C49200A48030 /* Compound_Interest_CalculatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3D6BD0C29B7C49200A48030 /* Compound_Interest_CalculatorTests.swift */; };
 		D3D6BD1729B7C49200A48030 /* Compound_Interest_CalculatorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3D6BD1629B7C49200A48030 /* Compound_Interest_CalculatorUITests.swift */; };
 		D3D6BD1929B7C49200A48030 /* Compound_Interest_CalculatorUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3D6BD1829B7C49200A48030 /* Compound_Interest_CalculatorUITestsLaunchTests.swift */; };
+		D3F5829A29DB3F5E00C535BF /* ResultStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D3F5829929DB3F5E00C535BF /* ResultStoryboard.storyboard */; };
+		D3F5829C29DB4CDC00C535BF /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3F5829B29DB4CDC00C535BF /* ResultViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,8 @@
 		D3D6BD1229B7C49200A48030 /* Compound Interest CalculatorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Compound Interest CalculatorUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D3D6BD1629B7C49200A48030 /* Compound_Interest_CalculatorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Compound_Interest_CalculatorUITests.swift; sourceTree = "<group>"; };
 		D3D6BD1829B7C49200A48030 /* Compound_Interest_CalculatorUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Compound_Interest_CalculatorUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		D3F5829929DB3F5E00C535BF /* ResultStoryboard.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = ResultStoryboard.storyboard; sourceTree = "<group>"; };
+		D3F5829B29DB4CDC00C535BF /* ResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +83,8 @@
 		D3D6BCE929B7C48C00A48030 = {
 			isa = PBXGroup;
 			children = (
+				D3F5829929DB3F5E00C535BF /* ResultStoryboard.storyboard */,
+				D3F5829B29DB4CDC00C535BF /* ResultViewController.swift */,
 				D3D6BCF429B7C48C00A48030 /* Compound Interest Calculator */,
 				D3D6BD0B29B7C49200A48030 /* Compound Interest CalculatorTests */,
 				D3D6BD1529B7C49200A48030 /* Compound Interest CalculatorUITests */,
@@ -233,6 +239,7 @@
 			files = (
 				D3D6BD0229B7C49200A48030 /* LaunchScreen.storyboard in Resources */,
 				D3D6BCFF29B7C49200A48030 /* Assets.xcassets in Resources */,
+				D3F5829A29DB3F5E00C535BF /* ResultStoryboard.storyboard in Resources */,
 				D3D6BCFD29B7C48C00A48030 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -261,6 +268,7 @@
 				D3D6BCFA29B7C48C00A48030 /* ViewController.swift in Sources */,
 				D3D6BCF629B7C48C00A48030 /* AppDelegate.swift in Sources */,
 				D3D6BCF829B7C48C00A48030 /* SceneDelegate.swift in Sources */,
+				D3F5829C29DB4CDC00C535BF /* ResultViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
