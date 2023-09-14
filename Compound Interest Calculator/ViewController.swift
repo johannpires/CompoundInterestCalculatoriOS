@@ -41,9 +41,7 @@ class ViewController: UIViewController {
         // Formatting the compound interest and total value using the number formatter
         let compoundInterestFormatted = numberFormatter.string(for: result.compoundInterest)!
         let totalValueFormatted = numberFormatter.string(for: result.totalValue)!
-        let resultString = "Total Value: \(totalValueFormatted) and Compound Interest: \(compoundInterestFormatted)"
-        
-        // "Once your investment compounds, you'll have \(totalValueFormatted) as your Total Value, and your earnings from Compound Interest will be \(compoundInterestFormatted)"
+        let resultString = "Once your investment compounds, you'll have the amount of:\n \(totalValueFormatted)\n as your Total Value, and your earnings from Compound Interest will be\n\(compoundInterestFormatted)"
 
         // Setting resultString
         self.resultString = resultString
