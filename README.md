@@ -9,7 +9,7 @@ This project aims to provide a user-friendly tool for calculating compound inter
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
 
-<img src="/Screenshots/Homescreen.png" width="260">&emsp;<img src="/Screenshots/Homescreen2.png" width="260">&emsp;<img src="/Screenshots/Result.png" width="260">
+<img src="/Screenshots/Home.png" width="260">&emsp;<img src="/Screenshots/Home2.png" width="260">&emsp;<img src="/Screenshots/Results.png" width="260">
 
 ## Tecnologies
 * Swift
