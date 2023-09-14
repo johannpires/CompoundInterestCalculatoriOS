@@ -1,10 +1,7 @@
 # Compound Interest Calculator
 
 ## Overview
-The Compound Interest Calculator is an iOS application designed to facilitate the computation of compound interest with monthly contributions. This project represents my inaugural endeavor in Swift development, as I have undertaken the task of creating this calculator from the ground up for personal utility.
-
-## Introduction
-This iOS application serves as a valuable tool for anyone seeking to calculate compound interest while considering regular monthly contributions. By harnessing the power of Swift, I have constructed this app to provide users with a seamless and efficient means of achieving accurate financial calculations.
+The Compound Interest Calculator is an iOS application designed to facilitate the computation of compound interest with monthly contributions. By harnessing the power of Swift, I have constructed this app from ground up to provide users with a seamless and efficient means of achieving accurate financial calculations.
 
 ## Purpose
 This project aims to provide a user-friendly tool for calculating compound interest, enabling users to make informed financial decisions and secure their financial future. It's also intended to highlight the extraordinary power of compounding, showcasing the exponential potential of consistent contributions and reinvestment strategies.
